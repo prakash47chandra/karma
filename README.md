@@ -1,4 +1,7 @@
 # karma
+Kickoff meeting t1.txt
+Agilemeeting notes
+Moms 
 #linux command at first 
 #!#bin/bash
 mkdir
