@@ -2,6 +2,9 @@
 Kickoff meeting t1.txt
 Agilemeeting notes
 Moms 
+Stories 
+tasks
+
 #linux command at first 
 #!#bin/bash
 mkdir
